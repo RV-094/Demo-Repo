@@ -3,4 +3,4 @@ This is a demo repo for practice purpose
 
 ## subheader
 
-This is created by vedant Raturi for learning purpose.
+This is created by vedant the  Raturi for learning purpose.
